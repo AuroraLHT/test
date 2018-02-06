@@ -1,0 +1,10 @@
+# checkpoint file
+*.tar.gz
+*.weights
+# tf summary
+
+# dataset
+*.tar.gz
+*.zip
+*.7z
+*.csv
